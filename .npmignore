@@ -1,0 +1,9 @@
+node_modules
+tests
+examples
+.vscode
+src
+.travis.yml
+gulpfile.js
+.editorconfig
+.jshintrc
